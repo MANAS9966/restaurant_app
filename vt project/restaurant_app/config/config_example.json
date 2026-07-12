@@ -1,0 +1,40 @@
+{
+  "app": {
+    "name": "Restaurant Management System",
+    "version": "1.0.0",
+    "window_width": 1400,
+    "window_height": 900,
+    "default_theme": "dark"
+  },
+  "database": {
+    "type": "sqlite",
+    "sqlite_path": "./data/restaurant.db",
+    "host": "localhost",
+    "port": 5432,
+    "name": "restaurant_db",
+    "user": "admin",
+    "password": ""
+  },
+  "security": {
+    "password_min_length": 8,
+    "session_timeout_minutes": 30,
+    "max_login_attempts": 5,
+    "lockout_duration_minutes": 30
+  },
+  "mcp": {
+    "enabled": true,
+    "email_service": {
+      "enabled": true,
+      "endpoint": "https://mcp-email-service.example.com"
+    },
+    "sms_service": {
+      "enabled": false,
+      "endpoint": "https://mcp-sms-service.example.com"
+    }
+  },
+  "features": {
+    "email_notifications": true,
+    "sms_notifications": false,
+    "analytics": true
+  }
+}

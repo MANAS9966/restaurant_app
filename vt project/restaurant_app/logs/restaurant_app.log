@@ -1,0 +1,324 @@
+[2026-07-10 23:52:25] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-10 23:52:25] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-10 23:56:47] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-10 23:56:47] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-10 23:56:47] INFO     restaurant_app — User registered: admin@example.com (role=admin)
+[2026-07-10 23:56:47] INFO     restaurant_app — User registered: owner@example.com (role=owner)
+[2026-07-10 23:56:47] INFO     restaurant_app — User registered: cust@example.com (role=customer)
+[2026-07-10 23:56:47] INFO     restaurant_app — Owner profile created for user 2: Test Bistro
+[2026-07-10 23:56:47] INFO     restaurant_app — Admin approved owner 1 → verified
+[2026-07-10 23:56:47] INFO     restaurant_app — Dish created: Pasta (owner=1)
+[2026-07-10 23:56:47] INFO     restaurant_app — Order ORD-B153D13028 created by customer 3
+[2026-07-10 23:57:44] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-10 23:57:44] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-10 23:57:44] INFO     restaurant_app — Order ORD-38C715283C created by customer 3
+[2026-07-10 23:59:38] INFO     restaurant_app — User registered: admin@example.com (role=admin)
+[2026-07-10 23:59:38] INFO     restaurant_app — User registered: owner@example.com (role=owner)
+[2026-07-10 23:59:38] INFO     restaurant_app — User registered: cust@example.com (role=customer)
+[2026-07-10 23:59:38] INFO     restaurant_app — Owner profile created for user 2: Test Bistro
+[2026-07-10 23:59:38] INFO     restaurant_app — Admin approved owner 1 → verified
+[2026-07-10 23:59:38] INFO     restaurant_app — Dish created: Pasta (owner=1)
+[2026-07-10 23:59:38] INFO     restaurant_app — Order ORD-388DBA4EA0 created by customer 3
+[2026-07-10 23:59:38] INFO     restaurant_app — User logged in: cust@example.com
+[2026-07-11 00:00:17] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:00:17] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:00:45] INFO     restaurant_app — User registered: admin@example.com (role=admin)
+[2026-07-11 00:00:45] INFO     restaurant_app — User registered: owner@example.com (role=owner)
+[2026-07-11 00:00:45] INFO     restaurant_app — User registered: cust@example.com (role=customer)
+[2026-07-11 00:00:45] INFO     restaurant_app — Owner profile created for user 2: Test Bistro
+[2026-07-11 00:00:45] INFO     restaurant_app — Admin approved owner 1 → verified
+[2026-07-11 00:00:45] INFO     restaurant_app — Dish created: Pasta (owner=1)
+[2026-07-11 00:00:45] INFO     restaurant_app — Order ORD-2EE999A8E6 created by customer 3
+[2026-07-11 00:00:58] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:00:58] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:02:41] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:02:41] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:07:11] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:07:11] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:12:36] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:12:36] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:13:14] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:13:14] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:15:58] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:15:58] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:16:32] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:16:32] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:16:33] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 00:18:15] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:18:15] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:18:53] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 4 attempt(s) remaining.
+[2026-07-11 00:19:30] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 3 attempt(s) remaining.
+[2026-07-11 00:21:00] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:21:00] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:22:26] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:22:26] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:23:29] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:23:29] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:23:55] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password.
+[2026-07-11 00:24:14] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 4 attempt(s) remaining.
+[2026-07-11 00:29:18] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:29:18] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:30:06] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:30:06] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:30:44] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 3 attempt(s) remaining.
+[2026-07-11 00:30:56] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 2 attempt(s) remaining.
+[2026-07-11 00:31:59] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:31:59] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:32:00] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 00:32:10] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:32:10] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:33:42] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:33:42] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:33:42] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 00:33:55] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:33:55] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:34:18] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 4 attempt(s) remaining.
+[2026-07-11 00:34:28] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 3 attempt(s) remaining.
+[2026-07-11 00:34:51] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 2 attempt(s) remaining.
+[2026-07-11 00:35:01] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 1 attempt(s) remaining.
+[2026-07-11 00:37:27] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:37:27] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:38:01] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:38:01] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:38:02] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 00:38:14] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:38:14] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:38:14] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 00:38:36] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:38:36] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:38:56] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 4 attempt(s) remaining.
+[2026-07-11 00:41:21] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:41:21] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:41:21] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 00:41:22] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 00:41:44] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:41:44] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:41:59] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 4 attempt(s) remaining.
+[2026-07-11 00:43:01] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:43:01] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:43:05] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:43:05] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:43:05] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 00:44:31] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:44:31] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:44:32] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 00:44:32] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 00:46:09] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:46:09] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:46:10] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:46:10] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 00:46:10] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:47:32] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:47:32] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:47:33] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 00:47:55] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:47:55] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:48:17] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 00:57:01] INFO     restaurant_app — User registered: customer@example.com (role=customer)
+[2026-07-11 00:57:01] INFO     restaurant_app — User registered: owner@example.com (role=owner)
+[2026-07-11 00:57:01] INFO     restaurant_app — Owner profile created for user 2: Owner Bistro
+[2026-07-11 00:57:02] INFO     restaurant_app — User logged in: customer@example.com
+[2026-07-11 00:57:02] INFO     restaurant_app — User logged in: owner@example.com
+[2026-07-11 00:57:42] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 00:57:42] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 00:57:42] INFO     restaurant_app — User registered: gui_customer@example.com (role=customer)
+[2026-07-11 00:57:42] INFO     restaurant_app — User registered: gui_owner@example.com (role=owner)
+[2026-07-11 00:57:42] INFO     restaurant_app — Owner profile created for user 5: Gui Bistro
+[2026-07-11 00:57:42] INFO     restaurant_app — User logged in: gui_customer@example.com
+[2026-07-11 00:57:43] INFO     restaurant_app — User logged in: gui_owner@example.com
+[2026-07-11 01:05:09] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 01:05:09] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 01:05:09] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 01:05:09] INFO     restaurant_app — User registered: pro_customer@example.com (role=customer)
+[2026-07-11 01:05:10] INFO     restaurant_app — User logged in: pro_customer@example.com
+[2026-07-11 01:05:29] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 01:05:29] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 01:15:15] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 01:15:15] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 01:15:16] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 01:15:46] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 01:15:46] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 01:15:46] INFO     restaurant_app — User registered: smoke_customer_20260711@example.com (role=customer)
+[2026-07-11 01:15:46] INFO     restaurant_app — User logged in: smoke_customer_20260711@example.com
+[2026-07-11 01:16:21] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 01:16:22] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 01:16:46] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 01:16:46] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 01:17:18] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 01:17:18] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 01:17:56] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 4 attempt(s) remaining.
+[2026-07-11 01:18:24] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 17:48:52] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 17:48:52] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 17:49:07] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password.
+[2026-07-11 17:49:13] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password.
+[2026-07-11 17:49:48] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 17:56:10] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 17:56:10] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 17:56:41] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 17:57:35] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 17:57:35] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 17:58:10] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 17:58:10] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 18:01:36] INFO     restaurant_app — User registered: arghodeepc1@gmail.com (role=customer)
+[2026-07-11 18:01:58] INFO     restaurant_app — User logged in: arghodeepc1@gmail.com
+[2026-07-11 18:02:37] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 18:05:17] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 18:05:18] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 18:05:18] INFO     restaurant_app — User registered: saffron.garden@example.com (role=owner)
+[2026-07-11 18:05:18] INFO     restaurant_app — Owner profile created for user 9: Saffron Garden
+[2026-07-11 18:05:18] INFO     restaurant_app — Dish created: Paneer Tikka (owner=3)
+[2026-07-11 18:05:18] INFO     restaurant_app — Dish created: Butter Chicken (owner=3)
+[2026-07-11 18:05:18] INFO     restaurant_app — Dish created: Veg Biryani (owner=3)
+[2026-07-11 18:05:18] INFO     restaurant_app — Dish created: Chocolate Lava Cake (owner=3)
+[2026-07-11 18:05:45] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 18:05:45] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 18:06:14] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 18:06:14] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 18:06:29] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 18:18:07] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 18:18:07] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 18:18:07] INFO     restaurant_app — User registered: coastal.bowl@example.com (role=owner)
+[2026-07-11 18:18:07] INFO     restaurant_app — Owner profile created for user 10: Coastal Bowl
+[2026-07-11 18:18:07] INFO     restaurant_app — Dish created: Fish Curry Rice (owner=4)
+[2026-07-11 18:18:07] INFO     restaurant_app — Dish created: Prawn Fry (owner=4)
+[2026-07-11 18:18:07] INFO     restaurant_app — Dish created: Mango Shake (owner=4)
+[2026-07-11 18:18:07] INFO     restaurant_app — User registered: maya.customer@example.com (role=customer)
+[2026-07-11 18:18:07] INFO     restaurant_app — Order ORD-D276F08CEB created by customer 11
+[2026-07-11 18:18:59] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 18:18:59] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 18:18:59] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 18:18:59] INFO     restaurant_app — User logged in: saffron.garden@example.com
+[2026-07-11 18:19:00] INFO     restaurant_app — User logged in: maya.customer@example.com
+[2026-07-11 18:19:46] INFO     restaurant_app.db — Database initialised at: D:\vt project\restaurant_app\data\restaurant.db
+[2026-07-11 18:19:46] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-11 18:20:06] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-11 18:22:57] INFO     restaurant_app — User logged in: arghodeepc1@gmail.com
+[2026-07-12 04:25:44] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:25:44] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:26:09] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-12 04:30:45] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:30:45] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:31:04] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-12 04:31:18] INFO     restaurant_app — Admin set user 4 status → active
+[2026-07-12 04:31:30] INFO     restaurant_app — Admin set user 9 status → inactive
+[2026-07-12 04:31:33] INFO     restaurant_app — Admin set user 4 status → inactive
+[2026-07-12 04:32:50] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:32:50] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:33:25] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:33:25] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:33:45] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: This account has been deactivated.
+[2026-07-12 04:34:09] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-12 04:34:15] INFO     restaurant_app — Admin set user 9 status → active
+[2026-07-12 04:34:32] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 4 attempt(s) remaining.
+[2026-07-12 04:34:44] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 3 attempt(s) remaining.
+[2026-07-12 04:34:55] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 2 attempt(s) remaining.
+[2026-07-12 04:35:33] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:35:33] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:35:43] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 1 attempt(s) remaining.
+[2026-07-12 04:35:46] WARNING  restaurant_app.errors — [login] user=? — AccountLockedError: Too many failed attempts. Account locked for 30 minutes.
+[2026-07-12 04:35:52] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:35:52] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:36:05] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:36:05] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:36:11] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:36:11] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:36:17] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:36:17] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:36:25] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:36:25] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:36:45] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:36:45] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:37:01] INFO     restaurant_app — User logged in: coastal.bowl@example.com
+[2026-07-12 04:39:23] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:39:23] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:39:35] INFO     restaurant_app — User logged in: coastal.bowl@example.com
+[2026-07-12 04:41:02] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password.
+[2026-07-12 04:41:08] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password.
+[2026-07-12 04:41:13] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password.
+[2026-07-12 04:41:44] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:41:44] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:42:18] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password. 4 attempt(s) remaining.
+[2026-07-12 04:42:40] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:42:40] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:42:40] INFO     restaurant_app — User logged in: arghodeepc1@gmail.com
+[2026-07-12 04:43:06] INFO     restaurant_app — User logged in: arghodeepc1@gmail.com
+[2026-07-12 04:44:21] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:44:21] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:44:25] INFO     restaurant_app — User logged in: coastal.bowl@example.com
+[2026-07-12 04:44:32] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:44:32] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:45:32] INFO     restaurant_app — User logged in: arghodeepc1@gmail.com
+[2026-07-12 04:46:36] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:46:36] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:46:52] INFO     restaurant_app — User logged in: arghodeepc1@gmail.com
+[2026-07-12 04:48:00] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:48:00] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:48:34] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:48:34] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:48:53] INFO     restaurant_app — User logged in: arghodeepc1@gmail.com
+[2026-07-12 04:49:24] INFO     restaurant_app — Order ORD-2F265699F6 created by customer 8
+[2026-07-12 04:50:21] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:50:21] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:50:32] INFO     restaurant_app — User logged in: saffron.garden@example.com
+[2026-07-12 04:56:16] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:56:16] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:58:42] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:58:42] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:58:42] INFO     restaurant_app — User registered: saffron.garden@example.com (role=owner)
+[2026-07-12 04:58:42] INFO     restaurant_app — Owner profile created for user 2: Saffron Garden
+[2026-07-12 04:58:42] INFO     restaurant_app — Dish created: Paneer Tikka (owner=1)
+[2026-07-12 04:58:42] INFO     restaurant_app — Dish created: Butter Chicken (owner=1)
+[2026-07-12 04:58:42] INFO     restaurant_app — Dish created: Veg Biryani (owner=1)
+[2026-07-12 04:58:42] INFO     restaurant_app — Dish created: Chocolate Lava Cake (owner=1)
+[2026-07-12 04:58:42] INFO     restaurant_app — User registered: coastal.bowl@example.com (role=owner)
+[2026-07-12 04:58:42] INFO     restaurant_app — Owner profile created for user 3: Coastal Bowl
+[2026-07-12 04:58:42] INFO     restaurant_app — Dish created: Fish Curry Rice (owner=2)
+[2026-07-12 04:58:42] INFO     restaurant_app — Dish created: Prawn Fry (owner=2)
+[2026-07-12 04:58:42] INFO     restaurant_app — Dish created: Mango Shake (owner=2)
+[2026-07-12 04:58:58] INFO     restaurant_app.db — Database initialised at: A:\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 04:58:58] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 04:58:58] INFO     restaurant_app — User registered: saffron.garden@example.com (role=owner)
+[2026-07-12 04:58:58] INFO     restaurant_app — Owner profile created for user 2: Saffron Garden
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Paneer Tikka (owner=1)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Butter Chicken (owner=1)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Veg Biryani (owner=1)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Chocolate Lava Cake (owner=1)
+[2026-07-12 04:58:58] INFO     restaurant_app — User registered: coastal.bowl@example.com (role=owner)
+[2026-07-12 04:58:58] INFO     restaurant_app — Owner profile created for user 3: Coastal Bowl
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Fish Curry Rice (owner=2)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Prawn Fry (owner=2)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Mango Shake (owner=2)
+[2026-07-12 04:58:58] INFO     restaurant_app — User registered: pasta.project@example.com (role=owner)
+[2026-07-12 04:58:58] INFO     restaurant_app — Owner profile created for user 4: The Pasta Project
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Margherita Pizza (owner=3)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Fettuccine Alfredo (owner=3)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Tiramisu (owner=3)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Garlic Bread (owner=3)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Bruschetta (owner=3)
+[2026-07-12 04:58:58] INFO     restaurant_app — User registered: wok.roll@example.com (role=owner)
+[2026-07-12 04:58:58] INFO     restaurant_app — Owner profile created for user 5: Wok & Roll
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Chicken Hakka Noodles (owner=4)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Dim Sum Basket (owner=4)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Spring Rolls (owner=4)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Thai Green Curry (owner=4)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Jasmine Rice (owner=4)
+[2026-07-12 04:58:58] INFO     restaurant_app — User registered: burger.bistro@example.com (role=owner)
+[2026-07-12 04:58:58] INFO     restaurant_app — Owner profile created for user 6: Burger Bistro
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Classic Cheeseburger (owner=5)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: BBQ Bacon Burger (owner=5)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Truffle Fries (owner=5)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Onion Rings (owner=5)
+[2026-07-12 04:58:58] INFO     restaurant_app — Dish created: Vanilla Bean Milkshake (owner=5)
+[2026-07-12 04:58:58] INFO     restaurant_app — User registered: maya.customer@example.com (role=customer)
+[2026-07-12 04:58:58] INFO     restaurant_app — Order ORD-CED62001C9 created by customer 7
+[2026-07-12 10:35:48] INFO     restaurant_app.db — Database initialised at: C:\Users\Manas\Downloads\vt project\vt project\restaurant_app\data\restaurant.db
+[2026-07-12 10:35:48] INFO     restaurant_app.app — Application initialised: Restaurant Management System
+[2026-07-12 10:36:12] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password.
+[2026-07-12 10:36:25] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password.
+[2026-07-12 10:36:30] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password.
+[2026-07-12 10:36:36] WARNING  restaurant_app.errors — [login] user=? — AuthenticationError: Invalid email or password.
+[2026-07-12 10:36:44] INFO     restaurant_app — User logged in: admin@gmail.com
+[2026-07-12 10:38:14] INFO     restaurant_app — User registered: arghodeepc@gmail.com (role=customer)
+[2026-07-12 10:38:21] INFO     restaurant_app — User logged in: arghodeepc@gmail.com
+[2026-07-12 10:39:24] INFO     restaurant_app — Order ORD-2FFB16015E created by customer 8
